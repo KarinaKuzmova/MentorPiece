@@ -1,2 +1,1 @@
-# MentorPiece
-Git homework
+Hello, world!
